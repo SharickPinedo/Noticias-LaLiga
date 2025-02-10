@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Noticias de LaLiga</title>
+        <link>https://www.laliga.com</link> 
+        <description>Últimas noticias y novedades sobre LaLiga española</description>
+        <language>es</language>
+        <atom:link href="https://www.laliga.com/es-GB/noticias" rel="self" type="application/rss+xml" />
+
+        <item>
+            <title>Mbappé y Julián Alvárez: el derbi de las estrellas.</title>
+            <link>https://www.laliga.com/noticias/mbappe-vs-julian-alvarez</link>
+            <description>Descubre cómo llegan a ELDERBI de Madrid dos de las grandes estrellas del partidazo: Kylian Mbappé y Julián Álvarez. ¡Conoce las estadísticas!</description>
+            <pubDate>Wed, 05 Feb 2025 10:00:00 GMT</pubDate>
+            <guid isPermaLink="false">las-estrellas-2024</guid>
+        </item>
+
+        <item>
+            <title>Así ha sido el mercado de fichajes de invierno en LALIGA EA SPORTS 2024/25.</title>
+            <link>https://www.laliga.com/noticias/asi-ha-sido-el-mercado-de-fichajes-de-invierno-en-laliga-ea-sports-2024-25</link>
+            <description>La llegada de Antony al Real Betis, Sadiq al Valencia o Juan Bernat al Getafe han sido algunos de los movimientos más destacados del mercado de fichajes invernal de LALIGA EA SPORTS 2024/25.</description>
+            <pubDate>Tue, 04 Feb 2025 15:30:00 GMT</pubDate>
+            <guid isPermaLink="false">mercado-fichajes-2024</guid>
+        </item>
+
+        <item>
+            <title>Real Madrid vs Atlético de Madrid: ¿cuándo es ELDERBI DE MADRID?</title>
+            <link>https://www.laliga.com/es-GB/noticias/donde-ver-elderbi-de-madrid-real-madrid-vs-atletico-de-madrid</link>
+            <description>Entérate de cuándo y dónde ver el derbi de vuelta entre Real Madrid y Atlético de Madrid en la temporada 24/25. ¡Disfruta de la rivalidad en LALIGA!</description>
+            <pubDate>Mon, 03 Feb 2025 08:45:00 GMT</pubDate>
+            <guid isPermaLink="false">el-derbi-2024</guid>
+        </item>
+
+        <item>
+            <title>Kylian Mbappé, Mejor Jugador de LALIGA EA SPORTS en enero</title>
+            <link>https://www.laliga.com/es-GB/noticias/kylian-mbappe-mejor-jugador-de-laliga-ea-sports-en-enero</link>
+            <description>El futbolista francés del Real Madrid recibe por primera vez este premio tras despuntar con sus goles durante el primer año, ayudando al equipo blanco a hacerse con el liderato de LALIGA EA SPORTS y fortalecerlo.</description>
+            <pubDate>Fri, 31 Jan 2025 18:20:00 GMT</pubDate>
+            <guid isPermaLink="false">kylian-2024</guid>
+        </item>
+
+        <item>
+            <title>Sergio Herrera, Mejor Parada de LALIGA EA SPORTS en enero</title>
+            <link>https://www.laliga.com/es-GB/noticias/sergio-herrera-mejor-parada-de-laliga-ea-sports-en-enero</link>
+            <description>El guardameta del Osasuna recibe el galardón tras la evitar con un paradón el gol de Isi en el encuentro ante el Rayo Vallecano en El Sadar.</description>
+            <pubDate>Thu, 30 Jan 2025 12:10:00 GMT</pubDate>
+            <guid isPermaLink="false">sergio-2024</guid>
+        </item>
+    </channel>
+</rss>
